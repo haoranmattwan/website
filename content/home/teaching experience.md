@@ -31,11 +31,11 @@ experience:
     date_start: '2019-01-01'
     date_end: '2021-05-01'
     description: |2-
-        * Develop experimental procedures for students’ in-class experiments; give instructions on lab assignments; supervise and guide students’ in-class experiments.
+        * Developed experimental procedures for students’ in-class experiments; gave instructions on lab assignments; supervised and guided students’ in-class experiments.
 
-        * Teach data analysis using EXCEL and MED-PC programing language.
+        * Taught data analysis using EXCEL and MED-PC programing language.
 
-        * Help write MED-PC codes for the class; provide daily care for lab animals.
+        * Helped write MED-PC codes for the class; provided daily care for lab animals.
         
   - title: Teaching Assistant
     company: Reed College Economics Dept
@@ -45,9 +45,9 @@ experience:
     date_start: '2019-09-01'
     date_end: '2021-05-01'
     description: |2-
-        * Grade approximately thirty economics problem sets weekly and provided detailed feedback.
+        * Graded approximately thirty economics problem sets weekly and provided detailed feedback.
         
-        * Host weekly drop-in help sessions after class hours, helping students with class reading material, projects, and problem sets.
+        * Hosted weekly drop-in help sessions after class hours, helping students with class reading material, projects, and problem sets.
 
         * In person tutor for the course material.
 
