@@ -3,9 +3,12 @@ abstract: This study examines pigeons’ behavior in a token economy using Bayes
 
 authors:
 - Haoran Wan
-date: "2021-05-17"
-doi: "10.13140/RG.2.2.15821.77285"
+- Cyrus Kirkman 
+- Greg Jensen 
+- Timothy D. Hackenberg
+date: "2021-04-16"
+doi: "10.31234/osf.io/pmbnh"
 featured: true
-title: Bayesian Econometric Analysis of Individual Spending, Labor Supply, and Deferred Consumption in a Laboratory-Based Token Economy
-url_pdf: https://www.researchgate.net/publication/351435229_Bayesian_Econometric_Analysis_of_Individual_Spending_Labor_Supply_and_Deferred_Consumption_in_a_Laboratory-Based_Token_Economy
+title: Failure to Find Altruistic Food Sharing in Rats
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 ---
