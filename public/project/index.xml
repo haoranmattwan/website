@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Haoran Wan</title>
+    <link>https://haoran-m-wan.com/project/</link>
+      <atom:link href="https://haoran-m-wan.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Haoran Wan 2021</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://haoran-m-wan.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://haoran-m-wan.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Econometric Analysis of Individual Spending, Labor Supply, and Deferred Consumption in a Laboratory-Based Token Economy</title>
+      <link>https://haoran-m-wan.com/project/wan-2021/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/project/wan-2021/</guid>
+      <description>&lt;p&gt;My study examines pigeons’ behavior in a token economy using Bayesian econometric analysis, with token accumulation conceptualized as deferred consumption, token exchange as spending, and token production as labor supply. Six pigeons were exposed to a token reinforcement procedure with stimulus lights serving as tokens. Responses on a token-production key produced tokens exchangeable for food reinforcers in exchange periods. After one token had been produced, an exchange-production key became simultaneously available. Responses on this key produced the exchange period, wherein subjects exchanged earned tokens for food. Five experiments were conducted in all, and involved various combinations of price (token-exchange ratio), wage rate (token production ratio), non-labor income (free token), and transaction cost (exchange-production ratio). The study found that: (1) deferred consumption varied directly with the wage rate and the transaction cost; (2) labor supply varied directly with the real wage rate at low rates but inversely at high rates; (3) labor supply varied directly with the non-labor income at low income but inversely at high income; (4) consumer quantity demanded decreased as the food price increased; and (5) spending increased as the wage rate increased. This study contributes to a behavioral economic understanding of individual behavior in a token economy, using foundational economic concepts of consumer demand and labor supply.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Behavioral Economics of Food and Social Reinforcement</title>
+      <link>https://haoran-m-wan.com/project/kirkman-et-al.-2019/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/project/kirkman-et-al.-2019/</guid>
+      <description>&lt;p&gt;Prior research has shown that responding can be maintained under concurrent food and social reinforcement in rats, but little is known about interactions between these reinforcers. In our study, we approached the problem from a behavioral economic perspective, using demand-curve methods to analyze interactions between food and social reinforcement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Economic Analysis of Pigeons Gambling Behavior</title>
+      <link>https://haoran-m-wan.com/project/hackenberg-et-al.-2020/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/project/hackenberg-et-al.-2020/</guid>
+      <description>&lt;p&gt;Risky and impulsive choice underlie a great number of public health problems, including substance abuse and pathological gambling, to name a few. The main goal of our study is to develop and test an innovative animal model of risky decision making with relevance to addictive processes such as gambling. We are conducting an interrelated series of experiments to quantify the relationships between risky choices and reward variables, economic variables (e.g., real wages and non-labor income), contextual variables (e.g., signals for wins and losses) and social enrichment. We will integrate findings within a larger behavioral economic theoretical framework with implications for prevention and treatment of pathological gambling behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
