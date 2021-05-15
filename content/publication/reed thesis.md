@@ -1,14 +1,11 @@
 ---
-abstract: This study examines pigeons’ behavior in a token economy using Bayesian econometric analysis, with token accumulation conceptualized as deferred consumption, token exchange as spending, and token production as labor supply. Six pigeons were exposed to a token reinforcement procedure with stimulus lights serving as tokens. Responses on a token-production key produced tokens exchangeable for food reinforcers in exchange periods. After one token had been produced, an exchange-production key became simultaneously available. Responses on this key produced the exchange period, wherein subjects exchanged earned tokens for food. Five experiments were conducted in all, and involved various combinations of price (token-exchange ratio), wage rate (token production ratio), non-labor income (free token), and transaction cost (exchange-production ratio). The study found that (1) deferred consumption varied directly with the wage rate and the transaction cost; (2) labor supply varied directly with the real wage rate at low rates but inversely at high rates; (3) labor supply varied directly with the non-labor income at low income but inversely at high income; (4) consumer quantity demanded decreased as the food price increased; and (5) spending increased as the wage rate increased. This study contributes to a behavioral economic understanding of individual behavior in a token economy, using foundational economic concepts of consumer demand and labor supply.
+abstract: This study examines pigeons’ behavior in a token economy using Bayesian econometric analysis, with token accumulation conceptualized as deferred consumption, token exchange as spending, and token production as labor supply. Six pigeons were exposed to a token reinforcement procedure with stimulus lights serving as tokens. Responses on a token-production key produced tokens exchangeable for food reinforcers in exchange periods. After one token had been produced, an exchange-production key became simultaneously available. Responses on this key produced the exchange period, wherein subjects exchanged earned tokens for food. Five experiments were conducted in all, and involved various combinations of price (token-exchange ratio), wage rate (token production ratio), non-labor income (free token), and transaction cost (exchange-production ratio). The study found that (1) deferred consumption varied directly with the wage rate and the transaction cost; (2) labor supply varied directly with the real wage rate at low rates but inversely at high rates; (3) labor supply varied directly with the non-labor income at low income but inversely at high income; (4) consumer quantity demanded decreased as the food price increased; and (5) spending increased as the wage rate increased. This study contributes to a behavioral economic understanding of individual behavior in a token economy, using foundational economic concepts of consumer demand and labor supply..
 
 authors:
 - Haoran Wan
-- Cyrus Kirkman 
-- Greg Jensen 
-- Timothy D. Hackenberg
-date: "2021-04-16"
-doi: "10.31234/osf.io/pmbnh"
+date: "2021-05-14"
 featured: true
-title: Failure to Find Altruistic Food Sharing in Rats
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+title: Bayesian Econometric Analysis of Individual Spending, Labor Supply, and Deferred Consumption in a Laboratory-Based Token Economy
+url_pdf: https://www.researchgate.net/publication/351435229_Bayesian_Econometric_Analysis_of_Individual_Spending_Labor_Supply_and_Deferred_Consumption_in_a_Laboratory-Based_Token_Economy
 ---
+
