@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact Me
+title: Contact
 subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: false
+  autolink: true
   
   # Email form provider
   form:
@@ -23,7 +23,7 @@ content:
       id: test
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
   
 design:
   columns: '2'
