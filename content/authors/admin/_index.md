@@ -20,7 +20,7 @@ role: Incoming Graduate Student in Psychological & Brain Science
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'haoran.w@wustl.edu'
+  link: mailto:haoran.w@wustl.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/matt_hr_wan
