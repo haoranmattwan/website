@@ -21,7 +21,7 @@ feature:
   name: R, Stan
 - icon: chart-bar
   icon_pack: fas
-  name: Stata, LaTeX, MED-PC
+  name: Stata, GraphPad Prism, LaTeX, MED-PC
 - icon: chart-line
   icon_pack: fas
   name: Bayesian Statistics, Econometrics, Multilevel Modeling
