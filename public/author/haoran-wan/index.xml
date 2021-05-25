@@ -5,12 +5,38 @@
     <link>https://haoran-m-wan.com/author/haoran-wan/</link>
       <atom:link href="https://haoran-m-wan.com/author/haoran-wan/index.xml" rel="self" type="application/rss+xml" />
     <description>Haoran Wan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Haoran Wan 2021</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Haoran Wan 2021</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://haoran-m-wan.com/author/haoran-wan/avatar_hub5b92b4c3f4c4cf36bca4d1e86c88a0c_122683_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://haoran-m-wan.com/media/icon_hud2c30bbd0b86b9dbb03dc3ef560b6852_9657_512x512_fill_lanczos_center_2.png</url>
       <title>Haoran Wan</title>
       <link>https://haoran-m-wan.com/author/haoran-wan/</link>
     </image>
+    
+    <item>
+      <title>A Random Blog...</title>
+      <link>https://haoran-m-wan.com/post/5.14.2021/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/post/5.14.2021/</guid>
+      <description>&lt;p&gt;Hello, World!&lt;/p&gt;
+&lt;p&gt;I’ve always been thinking about having a place to share some of my thoughts on discounting, statistics, and behavioral economics of course. This blog is a soft commitment to what I am going to do (learning &amp;amp; writing) over this summer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Econometric Analysis of Individual Spending, Labor Supply, and Deferred Consumption in a Laboratory-Based Token Economy</title>
+      <link>https://haoran-m-wan.com/publication/reed-thesis/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/publication/reed-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failure to Find Altruistic Food Sharing in Rats</title>
+      <link>https://haoran-m-wan.com/publication/wan-et-al.-2021/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/publication/wan-et-al.-2021/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
