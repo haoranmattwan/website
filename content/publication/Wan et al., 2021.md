@@ -6,9 +6,9 @@ authors:
 - Cyrus Kirkman 
 - Greg Jensen 
 - Timothy D. Hackenberg
-date: "2021-04-16"
-doi: "10.31234/osf.io/pmbnh"
+date: "2021-06-21"
+doi: "10.3389/fpsyg.2021.696025"
 featured: true
 title: Failure to Find Altruistic Food Sharing in Rats
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.3389/fpsyg.2021.696025
 ---
