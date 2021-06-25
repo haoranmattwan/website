@@ -16,6 +16,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
+  - name: Conference Presentation
+    url: '#presentations'
+    weight: 35
   - name: Experience
     url: '#experience'
     weight: 40

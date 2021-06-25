@@ -50,7 +50,7 @@ item:
   url: "https://www.reed.edu/beyond-reed/fellowships-awards/sponsored/career-advancement-fund.html"
   
 - date_start: "2018-08-01"
-  date_start: "2020-05-01"
+  date_start: "2021-05-01"
   description: "Awarded to students maintaining 3.5 GPA or above each academic year."
   organization: Reed College
   title: Commendation for Excellence

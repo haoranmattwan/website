@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carol Franceschini | Haoran Wan</title>
+    <link>https://haoran-m-wan.com/author/carol-franceschini/</link>
+      <atom:link href="https://haoran-m-wan.com/author/carol-franceschini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carol Franceschini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Haoran Wan 2021</copyright><lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://haoran-m-wan.com/media/icon_hud2c30bbd0b86b9dbb03dc3ef560b6852_9657_512x512_fill_lanczos_center_2.png</url>
+      <title>Carol Franceschini</title>
+      <link>https://haoran-m-wan.com/author/carol-franceschini/</link>
+    </image>
+    
+    <item>
+      <title>Hackenberg, T. D., Kirkman, C. F., Wan, H., Franceschini, C. (2019). Behavioral Economics of Food and Social Reinforcement. Paper presented at annual symposium, Association for Behavior Analysis International Convention, Stockholm.</title>
+      <link>https://haoran-m-wan.com/presentations/hackenberg-et-al-2019-a/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/presentations/hackenberg-et-al-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kirkman, C. F., Wan, H., C. F., Franceschini, C., Hackenberg, T. D. (2019). Assessing Cross-Price Interactions Between Food and Social Reinforcement. Poster presented at the 45th Annual Convention at Association for Behavior Analysis International, Illinois.</title>
+      <link>https://haoran-m-wan.com/presentations/kirkman-et-al-2019/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/presentations/kirkman-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wan, H., Kirkman, C. F., Franceschini, C., Hackenberg, T. D. (2019). Failure to Find Altruistic Behavior in Rats. Poster presented at Association for Behavior Analysis International, Illinois.</title>
+      <link>https://haoran-m-wan.com/presentations/wan-et-al-2019-/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://haoran-m-wan.com/presentations/wan-et-al-2019-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
