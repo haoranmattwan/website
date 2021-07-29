@@ -5,8 +5,8 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Haoran Wan # Website name
-baseurl: 'https://haoran-m-wan.com/' # Website URL
-copyright: '&copy; Haoran Wan {year}' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://haoranmattwan.com/' # Website URL
+copyright: '&copy; Haoran Wan {2021}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

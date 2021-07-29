@@ -3,7 +3,7 @@ abstract: This study examines pigeons’ behavior in a token economy using Bayes
 
 date: "2021-05-14"
 featured: true
-title: Wan H. Bayesian Econometric Analysis of Individual Spending, Labor Supply, and Deferred Consumption in a Laboratory-Based Token Economy (Bachelor's thesis, Reed College)
+title: Wan, H., Bayesian Econometric Analysis of Individual Spending, Labor Supply, and Deferred Consumption in a Laboratory-Based Token Economy (Bachelor's thesis, Reed College)
 url_pdf: https://www.researchgate.net/publication/351435229_Bayesian_Econometric_Analysis_of_Individual_Spending_Labor_Supply_and_Deferred_Consumption_in_a_Laboratory-Based_Token_Economy
 ---
 

@@ -1,0 +1,8 @@
+---
+abstract: This study examines pigeons’ behavior in a token economy from an economic perspective, with token accumulation as deferred consumption, token production as labor supply, and token exchange as spending. Six pigeons were exposed to a token reinforcement procedure with stimulus lights serving as tokens. Responses on a token production key produced tokens exchangeable for food reinforcers. After one token had been produced, an exchange production key became simultaneously available. Responses on this key produced an exchange period, wherein subjects exchanged earned tokens for food. Five experiments were conducted in all, and involved various combinations of price (token exchange ratio), wage rate (token production ratio), non-labor income (free tokens), and transaction cost (exchange production ratio). The study found that (1) token accumulation varied inversely with the token production ratio and directly with the exchange-production ratio; (2) token production responses varied inversely with the token production ratio at low ratios but directly at high ratios; (3) token production responses varied directly with the number of free tokens at low amounts but inversely at high amounts; (4) food consumption decreased as the food price increased; and (5) token exchanges increased as the token production ratio decreased. This study contributes to a behavioral economic understanding of individual behavior in a token economy, using foundational economic concepts of consumer demand and labor supply.
+
+date: "2021-07-15"
+featured: true
+title: Wan, H., Tan, L., Hackenberg, T. D., (working paper). Economic analysis of pigeons token accumulation, exchange, and production in a laboratory based token economy.
+---
+

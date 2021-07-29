@@ -16,7 +16,7 @@ Interests:
 organizations:
 - name: Washington University in St.Louis
   url: "https://sites.wustl.edu/lengreen/people/189/"
-role: Incoming Graduate Student in Psychological & Brain Science
+role: Graduate Student in Psychological & Brain Science
 social:
 - icon: envelope
   icon_pack: fas

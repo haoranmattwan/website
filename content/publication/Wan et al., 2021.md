@@ -4,6 +4,6 @@ abstract: Prior research has found that one rat will release a second rat from r
 date: "2021-06-21"
 doi: "10.3389/fpsyg.2021.696025"
 featured: true
-title: Wan H., Kirkman, C., Jensen, G., Hackenberg, T. D. Failure to Find Altruistic Food Sharing in Rats. Front. Psychol. 12:696025
+title: Wan H., Kirkman, C. F., Jensen, G., Hackenberg, T. D. Failure to Find Altruistic Food Sharing in Rats. Front. Psychol. 12:696025
 url_pdf: https://doi.org/10.3389/fpsyg.2021.696025
 ---
