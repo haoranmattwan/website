@@ -8,23 +8,23 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: "https://drive.google.com/file/d/1BENMvLRpBkLBcId3tBeWeNilap_Dly8P/view?usp=sharing"
-    weight: 15
+    url: "https://drive.google.com/file/d/1jd9iPR1_HWF_oowr-2O0Ru4gVbBKldwM/view?usp=sharing"
+    weight: 20
   - name: Working Projects
     url: '#projects'
-    weight: 20
-  - name: Publications
-    url: '#publications'
     weight: 30
+  - name: Publications
+    url: '#featured'
+    weight: 40
   - name: Conference Presentation
     url: '#presentations'
-    weight: 35
+    weight: 50
   - name: Experience
     url: '#experience'
-    weight: 40
+    weight: 60
   - name: Awards & Grants
     url: '#accomplishments'
-    weight: 50
+    weight: 70
   - name: Blog
     url: "post"
-    weight: 60
+    weight: 80

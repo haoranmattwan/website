@@ -10,32 +10,14 @@ headless: true
 weight: 30
 
 title: Working Projects
-subtitle: ''
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
 ---
+
+**A Comparison of the Monetary Choice Questionnaire and the Adjusting-Amount Delay Discounting Task for Measuring Delay Discounting**\
+The Monetary Choice Questionnaire (MCQ) and the Adjusting-Amount Delay Discounting Task are often used to assess group and individual differences in delay discounting. As far as we are aware, no study has compared the measures of delay discounting for these two tasks. This project compares systematically the MCQ and the adjusting-amount task for measuring delay discounting and examines whether they measure the same underlying construct. We have completed data collection and analyses. Parts of the results were presented at the Brain, Behavior, and Cognition Brown Bag Series at Washington University in St. Louis.
+
+**A Comparison of the 18-item Monetary Choice Questionnaire and the 27-item Monetary Choice Questionnaire for Measuring Delay Discounting of Gains and Losses**\
+The MCQ is widely used to measure delay discounting. The original MCQ consisted of 27 items and can be divided into three sets of amount. We trimmed the original MCQ into a questionnaire with 18 items with two sets of amount. This project compares the 27-item MCQ and the 18-item MCQ and examines whether they produce similar results. We have completed the data collection and preliminary data analysis. 
+
+**Examining Age-related Differences of Delay Discounting in Individuals with Different Household Income Level**\
+Previous studies have reported inconsistent findings of age-related differences in delay discounting. One potential reason for the inconsistent findings may be that cognitive declines and various demographic variables are associated with age-related differences in decision-making. We hypothesize that the inconsistency can be clarified by considering income differences across age groups. This project examines age-related differences in delay discounting between younger and older adults and the interaction of the age-related differences with differences between lower and higher household income groups. Data collection will begin next semester. 

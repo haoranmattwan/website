@@ -12,28 +12,10 @@ weight: 35
 title: Publications
 subtitle: ''
 
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: publication
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-  # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: true
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 4
 ---
 
+**Wan, H.**, Tan, L., Hackenberg, T. D. (*working paper*). Economic analysis of pigeons’ token accumulation, exchange, and production in a laboratory-based token economy.
+
+Kirkman, C., **Wan, H.,** & Hackenberg, T. D. (2022). [A behavioral-economic analysis of demand and preference for social and food reinforcement in rats.](https://www.sciencedirect.com/science/article/pii/S0023969021000746/) Learning and Motivation, 77, 101780.
+
+**Wan, H.,** Kirkman, C., Jensen, G., & Hackenberg, T. D. (2021). [Failure to Find Altruistic Food Sharing in Rats.](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.696025/full) Frontiers in psychology, 12, 696025.
