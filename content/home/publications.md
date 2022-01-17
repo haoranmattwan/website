@@ -18,4 +18,4 @@ subtitle: ''
 
 Kirkman, C., **Wan, H.,** & Hackenberg, T. D. (2022). [A behavioral-economic analysis of demand and preference for social and food reinforcement in rats.](https://www.sciencedirect.com/science/article/pii/S0023969021000746/) Learning and Motivation, 77, 101780.
 
-**Wan, H.,** Kirkman, C., Jensen, G., & Hackenberg, T. D. (2021). [Failure to Find Altruistic Food Sharing in Rats.](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.696025/full) Frontiers in psychology, 12, 696025.
+**Wan, H.,** Kirkman, C., Jensen, G., & Hackenberg, T. D. (2021). [Failure to find altruistic food sharing in rats.](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.696025/full) Frontiers in psychology, 12, 696025.
